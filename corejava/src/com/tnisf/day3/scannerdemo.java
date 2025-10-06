@@ -1,4 +1,4 @@
-package day3;
+package com.tnisf.day3;
 import java.util.Scanner;
 
 public class scannerdemo {
